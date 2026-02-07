@@ -8,7 +8,6 @@ public class BurhanpediaTP1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Perubahan");
         System.out.println("=============================================================");
         System.out.println("\n  ____             _                 _____         _ _       \r\n" +
                 " |  _ \\           | |               |  __ \\       | (_)      \r\n" +
